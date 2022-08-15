@@ -1,3 +1,4 @@
 # This project is used for testing
 
-Thanks to Sushant Malla
+Thanks to sushant malla and kamal ghimire
+
