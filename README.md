@@ -1,2 +1,3 @@
-# nepali-nepathya
-Test ko lagi ho
+# This project is used for testing
+
+Thanks to Sushant Malla
